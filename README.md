@@ -2,5 +2,5 @@ Transparent Pool is an Android application designed to offer a clear and open so
 
 This collaborative project, named Transparent Pool, is a joint effort between myself and my classmate, L. Satyalokesh. Developed using Android Studio HedgeHog, the frontend is crafted with XML and Java to ensure a robust and user-friendly experience. As for the backend, we have seamlessly integrated Back4app to power the functionality of the application. Together, our expertise and teamwork have contributed to the creation of a transparent and efficient solution for managing collective pools on the Android platform.
 
-Here is the google drive link for the zip file of the project.
+Here is the google drive link for the compressed file of the project.
 https://drive.google.com/drive/folders/1l5EurQXafdlG-iFvUcpzMXxasrMyFH-o?usp=sharing
